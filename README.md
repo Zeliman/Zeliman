@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zeliman
 - 👀 I’m interested in frontend and design
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning JS HTML and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: andrejsubbotenko@gmail.com
 
